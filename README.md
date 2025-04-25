@@ -22,7 +22,7 @@ These are some of the tools in my box that I've learned over time, or am current
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,java,python,django,html,css,javascript,nodejs,mongodb,postgresql,vscode,C#,aws,docker,dotnet" />
+    <img src="https://skillicons.dev/icons?i=git,github,java,python,django,react,html,css,javascript,nodejs,mongodb,postgresql,vscode,C#,aws,docker,dotnet" />
   </a>
 </p>
 
