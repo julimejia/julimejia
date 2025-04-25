@@ -26,4 +26,8 @@ These are some of the tools in my box that I've learned over time, or am current
   </a>
 </p>
 
+## Stats for nerds 🤓
 
+![julimejia's Stats] (https://github-readme-stats.vercel.app/api?username=julimejia&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![julimejia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=julimejia&theme=tokyonight&hide_border=true)
+![julimejia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julimejia&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
